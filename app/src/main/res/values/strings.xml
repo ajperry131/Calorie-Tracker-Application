@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Calorie Tracker</string>
+
+    <string name="weigh_text">You weigh</string>
+    <string name="edit_button">Edit Profile</string>
+    <string name="record_button">Record</string>
+
+    <string name="gender">Gender:</string>
+    <string name="start_weight">Start Weight:</string>
+    <string name="current_weight">Current Weight:</string>
+    <string name="goal_weight">Goal Weight:</string>
+    <string name="calories_max">Calorie Max:</string>
+    <string name="calorie_limit">Calorie Limit:</string>
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="limit_style">
+        <item>Manual</item>
+        <item>Auto</item>
+    </string-array>
+
+    <string name="date_button">Choose Date</string>
+    <string name="calories_eaten">calories eaten</string>
+    <string name="weight_title">Weight</string>
+    <string name="food_name_title">Food Name</string>
+    <string name="calorie_title">Calories</string>
+
+
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="number_hint">0</string>
+</resources>
